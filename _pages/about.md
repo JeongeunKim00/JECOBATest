@@ -4,8 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+> 앞으로 한 발자국씩 걸어나아가고 있는 중!
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+## 김정은
+### 비전공자
